@@ -1,4 +1,4 @@
-# code-for-calculator-russia.py
+#code plugin for minecraft 1.16.5 - 1.20.2
 numberone = input("Первое число: ")
 znak = input("Знак: ")
 numbertwo = input("Второе число: ")
